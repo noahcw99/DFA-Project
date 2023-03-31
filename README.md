@@ -1,4 +1,4 @@
-# DFA-Project
+# Deterministic Finite Automaton Email Validator
 Tests for valid email addresses using a deterministic finite automaton (DFA).
 Compile and run emailDFA.cpp to test program. No bugs in current state
 Visual Representation of DFA provided in DFA.jpg
